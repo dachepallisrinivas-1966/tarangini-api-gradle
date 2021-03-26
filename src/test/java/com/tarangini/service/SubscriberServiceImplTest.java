@@ -21,6 +21,7 @@ import com.tarangini.repo.SubscriberRepo;
 @Service
 public class SubscriberServiceImplTest  {
 
+/*
 	@Mock
 	private SubscriberRepo repo;
 
@@ -50,5 +51,5 @@ public class SubscriberServiceImplTest  {
 		});
 
 	}
-
+*/
 }
